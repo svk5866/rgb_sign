@@ -1,0 +1,5 @@
+PWM Frequency: >100Hz
+PWM Depth: 8 bit
+Number of outputs: 16
+Current output per channel: 1A
+Voltage input: 12V
