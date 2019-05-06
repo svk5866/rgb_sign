@@ -6,3 +6,5 @@ https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-n
 STM32F103C8T6 usage:
 https://circuitdigest.com/microcontroller-projects/getting-started-with-stm32-development-board-stm32f103c8-using-arduino-ide
 
+IRLML0030TRPbF main switching transistor datasheet:
+https://www.infineon.com/dgdl/irlml0030pbf.pdf?fileId=5546d462533600a401535664773825df
