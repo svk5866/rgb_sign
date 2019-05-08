@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=EaZuKRSvwdo
 
 IRLML0030TRPbF main switching transistor datasheet:
 https://www.infineon.com/dgdl/irlml0030pbf.pdf?fileId=5546d462533600a401535664773825df
+
+MOSFET gate driver circuit fundamentals:
+http://www.ti.com/lit/ml/slua618a/slua618a.pdf
